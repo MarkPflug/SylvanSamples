@@ -8,9 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Sylvan.Data" Version="0.2.4" />
-    <PackageReference Include="Sylvan.Data.Csv" Version="1.2.1" />
-    <PackageReference Include="Sylvan.Data.Excel" Version="0.3.2" />
+    <PackageReference Include="Sylvan.Data" Version="0.2.5" />
+    <PackageReference Include="Sylvan.Data.Csv" Version="1.2.2" />
+    <PackageReference Include="Sylvan.Data.Excel" Version="0.3.3" />
     <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
   </ItemGroup>
 
